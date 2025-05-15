@@ -33,6 +33,7 @@
 | 12 | 2025.04.14 | 박동민 | [Library를 만들고 Maven Central에 배포해보자](https://naemamdaelo.tistory.com/entry/Library%EB%A5%BC-%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EC%9E%90-feat-Pebble) |
 | 13 | 2025.05.02 | 조관희 | [오픈 그래프(Open Graph)에 대해서 with Next.js](https://velog.io/@kwan_hee/%EC%98%A4%ED%94%88-%EA%B7%B8%EB%9E%98%ED%94%84Open-Graph%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-with-Next.js) |
 | 13 | 2025.05.02 | 박동민 | [음~ 맛있다~ Android Flavor](https://naemamdaelo.tistory.com/entry/Android-FlavorProduct-Flavor) |
+| 14 | 2025.05.15 | 이태희 | [Material 3 Expressive 톺아보기](https://haeti.palms.blog/material-3-expressive) |
 |  |  |   | 업데이트 중 ~ |
 
 ## 파일 제목
