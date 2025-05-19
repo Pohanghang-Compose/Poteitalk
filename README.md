@@ -34,7 +34,8 @@
 | 13 | 2025.05.02 | 조관희 | [오픈 그래프(Open Graph)에 대해서 with Next.js](https://velog.io/@kwan_hee/%EC%98%A4%ED%94%88-%EA%B7%B8%EB%9E%98%ED%94%84Open-Graph%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-with-Next.js) |
 | 13 | 2025.05.02 | 박동민 | [음~ 맛있다~ Android Flavor](https://naemamdaelo.tistory.com/entry/Android-FlavorProduct-Flavor) |
 | 14 | 2025.05.15 | 이태희 | [Material 3 Expressive 톺아보기](https://haeti.palms.blog/material-3-expressive) |
-| 14 | 2025.05.15 | 김상호 | [네트워크 상태 모니터링 및 Pull-to-Refresh 적용하기](https://marchbreeze.notion.site/Pull-to-Refresh-1edb6895dba980b1b1e0c84f6f97494d?pvs=4)                                                                                                                                                             |
+| 14 | 2025.05.15 | 김상호 | [네트워크 상태 모니터링 및 Pull-to-Refresh 적용하기](https://marchbreeze.notion.site/Pull-to-Refresh-1edb6895dba980b1b1e0c84f6f97494d?pvs=4) |
+| 15 | 2025.05.19 | 조관희 | [딥링크를 알아보자](https://velog.io/@kwan_hee/%EB%94%A5%EB%A7%81%ED%81%ACDeep-Link-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) |
 |  |  |   | 업데이트 중 ~ |
 
 ## 파일 제목
