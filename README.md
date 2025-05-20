@@ -36,6 +36,7 @@
 | 14 | 2025.05.15 | 이태희 | [Material 3 Expressive 톺아보기](https://haeti.palms.blog/material-3-expressive) |
 | 14 | 2025.05.15 | 김상호 | [네트워크 상태 모니터링 및 Pull-to-Refresh 적용하기](https://marchbreeze.notion.site/Pull-to-Refresh-1edb6895dba980b1b1e0c84f6f97494d?pvs=4) |
 | 15 | 2025.05.19 | 조관희 | [딥링크를 알아보자](https://velog.io/@kwan_hee/%EB%94%A5%EB%A7%81%ED%81%ACDeep-Link-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) |
+| 15 | 2025.05.19 | 이태희 | [워치 기기대응 해결해보기](https://taehi.notion.site/Wear-OS-1f62b680fa6e80cdbc97e978854b0d18?pvs=4) |
 |  |  |   | 업데이트 중 ~ |
 
 ## 파일 제목
