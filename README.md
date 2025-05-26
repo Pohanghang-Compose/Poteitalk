@@ -37,7 +37,8 @@
 | 14 | 2025.05.15 | 김상호 | [네트워크 상태 모니터링 및 Pull-to-Refresh 적용하기](https://marchbreeze.tistory.com/entry/Android-ConnectivityManager%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%83%81%ED%83%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)  |
 | 15 | 2025.05.19 | 조관희 | [딥링크를 알아보자](https://velog.io/@kwan_hee/%EB%94%A5%EB%A7%81%ED%81%ACDeep-Link-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) |
 | 15 | 2025.05.19 | 이태희 | [워치 기기대응 해결해보기](https://haeti.palms.blog/wear-os-responsive-ui) |
-|  |  |   | 업데이트 중 ~ |
+| 16 | 2025.05.27 | 김상호 | [Product Flavor를 사용해서 Mock 버전의 Fake 앱 구현하기](https://marchbreeze.tistory.com/entry/Android-Product-Flavor%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-Mock-%EB%B2%84%EC%A0%84%EC%9D%98-Fake-%EC%95%B1-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) |
+|    |            |     | 업데이트 중 ~ |
 
 ## 파일 제목
 

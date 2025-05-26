@@ -1,0 +1,2 @@
+Product Flavor를 사용해서 Mock 버전의 Fake 앱 구현하기
+https://marchbreeze.tistory.com/entry/Android-Product-Flavor%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-Mock-%EB%B2%84%EC%A0%84%EC%9D%98-Fake-%EC%95%B1-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
