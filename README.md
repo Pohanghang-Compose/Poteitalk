@@ -8,7 +8,7 @@
 ## Weekly Discussion
 | 주차 | 날짜 | 발표자 | 내용 |
   | :-------------: | :-------------: |:-:| ------------- |
-| 1 | 2024.12.16 | 조관희 | [kapt에서 ksp로 마이그레이션하는 과정](https://atom-feet-3b2.notion.site/kapt-ksp-15a0bc1578e6809eaf5dced868711560?pvs=4) |
+| 1 | 2024.12.16 | 조관희 | [kapt에서 ksp로 마이그레이션하는 과정](https://velog.io/@kwan_hee/kapt-%EC%97%90%EC%84%9C-ksp%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%B4%EB%B3%B4%EA%B8%B0) |
 | 2 | 2024.12.23 | 박동민 | [SDK 어디까지 아니? - compileSdk, targetSdk, minSdk](https://naemamdaelo.tistory.com/entry/SDK-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%95%84%EB%8B%88-compileSdk-targetSdk-minSdk) |
 | 2 | 2024.12.23 | 이태희 | [Compose - Snapshot System을 분석해보자](https://haeti.palms.blog/compose-snapshot-system) |
 | 3 | 2025.01.13 | 조관희 | [textMeasurer에 대한 고찰](https://velog.io/@kwan_hee/textMeasurer-%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0) |
