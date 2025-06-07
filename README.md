@@ -40,6 +40,7 @@
 | 16 | 2025.05.27 | 김상호 | [Product Flavor를 사용해서 Mock 버전의 Fake 앱 구현하기](https://marchbreeze.tistory.com/entry/Android-Product-Flavor%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-Mock-%EB%B2%84%EC%A0%84%EC%9D%98-Fake-%EC%95%B1-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) |
 | 16 | 2025.05.27 | 박동민 | [Android 15 - 16KB Page Size 대응](https://naemamdaelo.tistory.com/entry/Android-15-%EB%8C%80%EC%9D%91-16KB-Page-Size) |
 | 17 | 2025.06.07 | 조관희 | [Android 오디오 녹음: AudioRecord vs MediaRecorder, PCM과 WAV 차이](https://atom-feet-3b2.notion.site/Android-AudioRecord-vs-MediaRecorder-PCM-WAV-1ed0bc1578e6804e9c0ffb4564ca8a7d?source=copy_link) |
+| 17 | 2025.06.07 | 이태희 | [Material 3 Expressive 톺아보기 wear os 편](https://haeti.palms.blog/material-3-expressive-wear-os) |
 |    |            |     | 업데이트 중 ~ |
 
 ## 파일 제목
